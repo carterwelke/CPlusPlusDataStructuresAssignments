@@ -1,0 +1,34 @@
+﻿  tabexam.cxx
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(52,23): warning C4101: 'cursor': unreferenced local variable
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(51): message : while compiling class template member function 'void Table<TRec>::insert(const RecordType &)'
+          with
+          [
+              RecordType=TRec
+          ]
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\tabexam.cxx(251): message : see reference to function template instantiation 'void Table<TRec>::insert(const RecordType &)' being compiled
+          with
+          [
+              RecordType=TRec
+          ]
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\tabexam.cxx(198): message : see reference to class template instantiation 'Table<TRec>' being compiled
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(70,23): warning C4101: 'cursor': unreferenced local variable
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(69): message : while compiling class template member function 'void Table<TRec>::remove(int)'
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\tabexam.cxx(351): message : see reference to function template instantiation 'void Table<TRec>::remove(int)' being compiled
+  testtab2.cxx
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(52,23): warning C4101: 'cursor': unreferenced local variable
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(51): message : while compiling class template member function 'void Table<test_record_type>::insert(const RecordType &)'
+          with
+          [
+              RecordType=test_record_type
+          ]
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\testtab2.cxx(54): message : see reference to function template instantiation 'void Table<test_record_type>::insert(const RecordType &)' being compiled
+          with
+          [
+              RecordType=test_record_type
+          ]
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\testtab2.cxx(38): message : see reference to class template instantiation 'Table<test_record_type>' being compiled
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(70,23): warning C4101: 'cursor': unreferenced local variable
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\table2.tpp.h(69): message : while compiling class template member function 'void Table<test_record_type>::remove(int)'
+C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\wk13ChainedHashing\testtab2.cxx(57): message : see reference to function template instantiation 'void Table<test_record_type>::remove(int)' being compiled
+  Generating Code...
+  wk13ChainedHashing.vcxproj -> C:\Users\Carter\source\repos\C++DataStructures\wk13ChainedHashing\Debug\wk13ChainedHashing.exe

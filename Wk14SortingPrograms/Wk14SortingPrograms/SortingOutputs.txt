@@ -1,0 +1,165 @@
+Carter Welke CIST 004B Spring 2020
+
+FIRST RUN
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 32869
+Do you wish a single run (Y/N): Y
+
+Now executing a sample Shaker Sort of 32869 items.
+A sample Shaker Sort took 2.596677 Seconds.
+Now Executing a sample Shaker Sort of 32869 pre-sorted items.
+A sample Shaker Sort took 0.000213 Seconds.
+
+Now executing the Bubble Sort of 32869 items.
+The Bubble Sort took 50.336703 Seconds.
+Now Executing the Bubble Sort of 32869 pre-sorted items.
+The Bubble Sort took 1.657715 Seconds.
+
+Now executing your Optimized Bubble Sort of 32869 items.
+Your Optimized Bubble Sort took 39.073777 Seconds.
+Now Executing your Optimized Bubble Sort of 32869 pre-sorted items.
+Your Optimized Bubble Sort took 0.000131 Seconds.
+
+Now executing your Selection Sort of 32869 items.
+Your Selection Sort took 1.581879 Seconds.
+Now Executing your Selection Sort of 32869 pre-sorted items.
+Your Selection Sort took 3.705564 Seconds.
+
+Now executing your Insertion Sort of 32869 items.
+Your Insertion Sort took 0.860361 Seconds.
+Now Executing your Insertion Sort of 32869 pre-sorted items.
+Your Insertion Sort took 0.000167 Seconds.
+
+Now executing your Heap Sort of 32869 items.
+Your Heap Sort took 0.153497 Seconds.
+Now Executing your Heap Sort of 32869 pre-sorted items.
+Your Heap Sort took 0.120702 Seconds.
+
+Now executing your Heap Sort no recursion of 32869 items.
+Your Heap Sort no recursion took 0.133550 Seconds.
+Now Executing your Heap Sort no recursion of 32869 pre-sorted items.
+Your Heap Sort no recursion took 0.224059 Seconds.
+
+Now executing your Merge Sort of 32869 items.
+Your Merge Sort took 0.027021 Seconds.
+Now Executing your Merge Sort of 32869 pre-sorted items.
+Your Merge Sort took 0.022007 Seconds.
+
+
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Debug\Wk14SortingPrograms.exe (process 13692) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+SECOND RUN: 32768 items (2^15)
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 32768
+Do you wish a single run (Y/N): Y
+
+Now executing a sample Shaker Sort of 32768 items.
+A sample Shaker Sort took 2.505148 Seconds.
+Now Executing a sample Shaker Sort of 32768 pre-sorted items.
+A sample Shaker Sort took 0.000220 Seconds.
+
+Now executing the Bubble Sort of 32768 items.
+The Bubble Sort took 38.911364 Seconds.
+Now Executing the Bubble Sort of 32768 pre-sorted items.
+The Bubble Sort took 1.623894 Seconds.
+
+Now executing your Optimized Bubble Sort of 32768 items.
+Your Optimized Bubble Sort took 39.066926 Seconds.
+Now Executing your Optimized Bubble Sort of 32768 pre-sorted items.
+Your Optimized Bubble Sort took 0.000108 Seconds.
+
+Now executing your Selection Sort of 32768 items.
+Your Selection Sort took 1.585983 Seconds.
+Now Executing your Selection Sort of 32768 pre-sorted items.
+Your Selection Sort took 3.623045 Seconds.
+
+Now executing your Insertion Sort of 32768 items.
+Your Insertion Sort took 0.809601 Seconds.
+Now Executing your Insertion Sort of 32768 pre-sorted items.
+Your Insertion Sort took 0.000160 Seconds.
+
+Now executing your Heap Sort of 32768 items.
+Your Heap Sort took 0.115067 Seconds.
+Now Executing your Heap Sort of 32768 pre-sorted items.
+Your Heap Sort took 0.115780 Seconds.
+
+Now executing your Heap Sort no recursion of 32768 items.
+Your Heap Sort no recursion took 0.149697 Seconds.
+Now Executing your Heap Sort no recursion of 32768 pre-sorted items.
+Your Heap Sort no recursion took 0.222355 Seconds.
+
+Now executing your Merge Sort of 32768 items.
+Your Merge Sort took 0.026960 Seconds.
+Now Executing your Merge Sort of 32768 pre-sorted items.
+Your Merge Sort took 0.024237 Seconds.
+
+
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Debug\Wk14SortingPrograms.exe (process 1320) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+FINAL RUN
+
+Enter the size of Array you wish to sort (not more than 100,000,000): 5000
+Do you wish a single run (Y/N): N
+
+Testing every Sort Routine with array sizes of from 0 to 5000 numbers.
+Starting at:                            Tue May 12 11:33:54 2020
+   0 . . . . . . . . . .        Tue May 12 11:33:54 2020
+ 100 . . . . . . . . . .        Tue May 12 11:33:55 2020
+ 200 . . . . . . . . . .        Tue May 12 11:33:55 2020
+ 300 . . . . . . . . . .        Tue May 12 11:33:57 2020
+ 400 . . . . . . . . . .        Tue May 12 11:33:59 2020
+ 500 . . . . . . . . . .        Tue May 12 11:34:02 2020
+ 600 . . . . . . . . . .        Tue May 12 11:34:06 2020
+ 700 . . . . . . . . . .        Tue May 12 11:34:11 2020
+ 800 . . . . . . . . . .        Tue May 12 11:34:20 2020
+ 900 . . . . . . . . . .        Tue May 12 11:34:33 2020
+1000 . . . . . . . . . .        Tue May 12 11:34:48 2020
+1100 . . . . . . . . . .        Tue May 12 11:35:06 2020
+1200 . . . . . . . . . .        Tue May 12 11:35:22 2020
+1300 . . . . . . . . . .        Tue May 12 11:35:37 2020
+1400 . . . . . . . . . .        Tue May 12 11:35:55 2020
+1500 . . . . . . . . . .        Tue May 12 11:36:15 2020
+1600 . . . . . . . . . .        Tue May 12 11:36:38 2020
+1700 . . . . . . . . . .        Tue May 12 11:37:04 2020
+1800 . . . . . . . . . .        Tue May 12 11:37:33 2020
+1900 . . . . . . . . . .        Tue May 12 11:38:12 2020
+2000 . . . . . . . . . .        Tue May 12 11:38:47 2020
+2100 . . . . . . . . . .        Tue May 12 11:39:25 2020
+2200 . . . . . . . . . .        Tue May 12 11:40:06 2020
+2300 . . . . . . . . . .        Tue May 12 11:40:51 2020
+2400 . . . . . . . . . .        Tue May 12 11:41:40 2020
+2500 . . . . . . . . . .        Tue May 12 11:42:31 2020
+2600 . . . . . . . . . .        Tue May 12 11:43:42 2020
+2700 . . . . . . . . . .        Tue May 12 11:44:47 2020
+2800 . . . . . . . . . .        Tue May 12 11:45:54 2020
+2900 . . . . . . . . . .        Tue May 12 11:47:04 2020
+3000 . . . . . . . . . .        Tue May 12 11:48:19 2020
+3100 . . . . . . . . . .        Tue May 12 11:49:39 2020
+3200 . . . . . . . . . .        Tue May 12 11:51:05 2020
+3300 . . . . . . . . . .        Tue May 12 11:52:35 2020
+3400 . . . . . . . . . .        Tue May 12 11:54:11 2020
+3500 . . . . . . . . . .        Tue May 12 11:55:52 2020
+3600 . . . . . . . . . .        Tue May 12 11:57:42 2020
+3700 . . . . . . . . . .        Tue May 12 11:59:35 2020
+3800 . . . . . . . . . .        Tue May 12 12:01:34 2020
+3900 . . . . . . . . . .        Tue May 12 12:03:46 2020
+4000 . . . . . . . . . .        Tue May 12 12:06:00 2020
+4100 . . . . . . . . . .        Tue May 12 12:08:19 2020
+4200 . . . . . . . . . .        Tue May 12 12:10:44 2020
+4300 . . . . . . . . . .        Tue May 12 12:13:17 2020
+4400 . . . . . . . . . .        Tue May 12 14:20:36 2020
+4500 . . . . . . . . . .        Tue May 12 14:23:31 2020
+4600 . . . . . . . . . .        Tue May 12 14:26:35 2020
+4700 . . . . . . . . . .        Tue May 12 14:29:47 2020
+4800 . . . . . . . . . .        Tue May 12 14:32:56 2020
+4900 . . . . . . . . . .
+Finished at:                            Tue May 12 14:36:13 2020
+
+
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Debug\Wk14SortingPrograms.exe (process 10956) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

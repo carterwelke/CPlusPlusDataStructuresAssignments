@@ -1,0 +1,13 @@
+﻿  sort.cpp
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(280,50): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(350,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(351,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(364,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(366,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(409,15): warning C4101: 'index_of_insertion': unreferenced local variable
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(615,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(634,43): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(635,43): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Wk14SortingPrograms\sort.cpp(651,41): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+  Wk14SortingPrograms.vcxproj -> C:\Users\Carter\source\repos\C++DataStructures\Wk14SortingPrograms\Debug\Wk14SortingPrograms.exe

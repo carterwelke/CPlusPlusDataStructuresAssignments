@@ -1,0 +1,70 @@
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):Q
+Please enter n for the n-queens problem (n >= 1): 3
+No solutions were found.
+
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):Q
+Please enter n for the n-queens problem (n >= 1): 5
+Solution for n = 5
+=========
+- - - Q -  Queen in row 1, column 4
+- Q - - -  Queen in row 2, column 2
+- - - - Q  Queen in row 3, column 5
+- - Q - -  Queen in row 4, column 3
+Q - - - -  Queen in row 5, column 1
+=========
+
+
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):Q
+Please enter n for the n-queens problem (n >= 1): 8
+Solution for n = 8
+===============
+- - - Q - - - -  Queen in row 1, column 4
+- Q - - - - - -  Queen in row 2, column 2
+- - - - - - Q -  Queen in row 3, column 7
+- - Q - - - - -  Queen in row 4, column 3
+- - - - - Q - -  Queen in row 5, column 6
+- - - - - - - Q  Queen in row 6, column 8
+- - - - Q - - -  Queen in row 7, column 5
+Q - - - - - - -  Queen in row 8, column 1
+===============
+
+
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):K
+Please enter n for the n-Knights problem (n >= 1): 3
+Solution for n = 3
+=====
+K - -  Knight in row 1, column 1
+K - -  Knight in row 2, column 1
+K - -  Knight in row 3, column 1
+=====
+
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):K
+Please enter n for the n-Knights problem (n >= 1): 5
+Solution for n = 5
+=========
+K - - - -  Knight in row 1, column 1
+K - - - -  Knight in row 2, column 1
+K - - - -  Knight in row 3, column 1
+K - - - -  Knight in row 4, column 1
+K - - - -  Knight in row 5, column 1
+=========
+
+Carter Welke CIST 004B Spring 2020
+Queens or Knights?(Q/K):K
+Please enter n for the n-Knights problem (n >= 1): 8
+Solution for n = 8
+===============
+K - - - - - - -  Knight in row 1, column 1
+K - - - - - - -  Knight in row 2, column 1
+K - - - - - - -  Knight in row 3, column 1
+K - - - - - - -  Knight in row 4, column 1
+K - - - - - - -  Knight in row 5, column 1
+K - - - - - - -  Knight in row 6, column 1
+K - - - - - - -  Knight in row 7, column 1
+K - - - - - - -  Knight in row 8, column 1
+===============

@@ -1,0 +1,147 @@
+Carter Welke CIST 004B Spring 2020
+Triangle
+***
+****
+*****
+*****
+****
+***
+
+Section Number Printer
+PREFIX1.1.
+PREFIX1.2.
+PREFIX1.3.
+PREFIX1.4.
+PREFIX1.5.
+PREFIX1.6.
+PREFIX1.7.
+PREFIX1.8.
+PREFIX1.9.
+PREFIX2.1.
+PREFIX2.2.
+PREFIX2.3.
+PREFIX2.4.
+PREFIX2.5.
+PREFIX2.6.
+PREFIX2.7.
+PREFIX2.8.
+PREFIX2.9.
+PREFIX3.1.
+PREFIX3.2.
+PREFIX3.3.
+PREFIX3.4.
+PREFIX3.5.
+PREFIX3.6.
+PREFIX3.7.
+PREFIX3.8.
+PREFIX3.9.
+PREFIX4.1.
+PREFIX4.2.
+PREFIX4.3.
+PREFIX4.4.
+PREFIX4.5.
+PREFIX4.6.
+PREFIX4.7.
+PREFIX4.8.
+PREFIX4.9.
+PREFIX5.1.
+PREFIX5.2.
+PREFIX5.3.
+PREFIX5.4.
+PREFIX5.5.
+PREFIX5.6.
+PREFIX5.7.
+PREFIX5.8.
+PREFIX5.9.
+PREFIX6.1.
+PREFIX6.2.
+PREFIX6.3.
+PREFIX6.4.
+PREFIX6.5.
+PREFIX6.6.
+PREFIX6.7.
+PREFIX6.8.
+PREFIX6.9.
+PREFIX7.1.
+PREFIX7.2.
+PREFIX7.3.
+PREFIX7.4.
+PREFIX7.5.
+PREFIX7.6.
+PREFIX7.7.
+PREFIX7.8.
+PREFIX7.9.
+PREFIX8.1.
+PREFIX8.2.
+PREFIX8.3.
+PREFIX8.4.
+PREFIX8.5.
+PREFIX8.6.
+PREFIX8.7.
+PREFIX8.8.
+PREFIX8.9.
+PREFIX9.1.
+PREFIX9.2.
+PREFIX9.3.
+PREFIX9.4.
+PREFIX9.5.
+PREFIX9.6.
+PREFIX9.7.
+PREFIX9.8.
+PREFIX9.9.
+
+Bears:
+Enter starting number: 250
+250 is true
+
+Fibonacci
+   n       Recursive       time(s) R       Iterative       time(s) I
+   1               1        0.000001               1        0.000001
+   2               1        0.000001               1        0.000002
+   3               2        0.000001               2        0.000001
+   4               3        0.000001               3        0.000001
+   5               5        0.000001               5        0.000001
+   6               8        0.000002               8        0.000001
+   7              13        0.000002              13        0.000001
+   8              21        0.000003              21        0.000001
+   9              34        0.000005              34        0.000002
+  10              55        0.000011              55        0.000001
+  11              89        0.000010              89        0.000001
+  12             144        0.000016             144        0.000002
+  13             233        0.000024             233        0.000001
+  14             377        0.000038             377        0.000002
+  15             610        0.000061             610        0.000002
+  16             987        0.000102             987        0.000002
+  17            1597        0.000197            1597        0.000002
+  18            2584        0.000396            2584        0.000002
+  19            4181        0.000435            4181        0.000002
+  20            6765        0.000693            6765        0.000002
+  21           10946        0.003125           10946        0.000003
+  22           17711        0.001757           17711        0.000002
+  23           28657        0.003561           28657        0.000002
+  24           46368        0.004641           46368        0.000002
+  25           75025        0.007685           75025        0.000002
+  26          121393        0.012352          121393        0.000002
+  27          196418        0.019422          196418        0.000003
+  28          317811        0.031587          317811        0.000002
+  29          514229        0.048647          514229        0.000003
+  30          832040        0.095677          832040        0.000003
+  31         1346269        0.124357         1346269        0.000003
+  32         2178309        0.213572         2178309        0.000002
+  33         3524578        0.334915         3524578        0.000004
+  34         5702887        0.543412         5702887        0.000003
+  35         9227465        0.927169         9227465        0.000003
+  36        14930352        1.519626        14930352        0.000003
+  37        24157817        2.317429        24157817        0.000003
+  38        39088169        3.769346        39088169        0.000003
+  39        63245986        6.127635        63245986        0.000003
+  40       102334155        9.815991       102334155        0.000003
+  41       165580141       15.992369       165580141        0.000003
+  42       267914296       25.709711       267914296        0.000003
+  43       433494437       41.778925       433494437        0.000003
+  44       701408733       67.617194       701408733        0.000003
+  45      1134903170      109.208367      1134903170        0.000003
+
+C:\Users\Carter\source\repos\C++DataStructures\wk10RecursionFun\Debug\wk10RecursionFun.exe (process 9356) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

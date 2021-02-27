@@ -1,0 +1,3 @@
+﻿  rec_fun.cpp
+C:\Users\Carter\source\repos\C++DataStructures\wk10RecursionFun\wk10RecursionFun\rec_fun.cpp(126,9): warning C4101: 'n': unreferenced local variable
+  wk10RecursionFun.vcxproj -> C:\Users\Carter\source\repos\C++DataStructures\wk10RecursionFun\Debug\wk10RecursionFun.exe

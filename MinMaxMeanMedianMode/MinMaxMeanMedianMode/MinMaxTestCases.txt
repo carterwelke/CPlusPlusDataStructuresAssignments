@@ -1,0 +1,46 @@
+Carter Welke CIST 004B Spring 2020
+
+include <vector>, <algorithm>, and <iomanip> libraries
+
+test bounds
+input bounds(1-100)
+case 1: enter 0, expect error
+case 2: enter 101, expect error
+case 3: enter 1, expect 1 input
+case 4: enter 100, expect 100 inputs
+
+input number bounds (1-1000)
+case 5: enter 0, expect error
+case 6: enter 1001, expect error
+case 7: enter 1, expect no error
+case 8: enter 100, expect no error
+
+single versus multiple modes
+case 9: single mode, expect single mode
+case 10: multimodal, expect all modes to be printed
+
+Test Run:
+Precomputed input and output:
+number of inputs: input 0, 101, and then 1
+input: 0, 1001, and then 4
+
+output should be:
+The Minimum is: 4
+The Maximum is: 4
+   The Mean is: 4
+ The Median is: 4
+   The Mode is: 4
+
+
+Test Run 2:
+Precomputed input and output:
+number of inputs: 25
+inputs: 1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6,6,8
+
+output should be:
+Min: 1
+Max: 8
+Mean: 3.68
+Median: 4
+List is Multimodal
+Mode: 1, 2, 3, 4, 5 and 6

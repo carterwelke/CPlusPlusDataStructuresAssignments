@@ -1,0 +1,4 @@
+﻿  MinMaxMeanMedianMode.cpp
+C:\Users\Carter\source\repos\C++DataStructures\MinMaxMeanMedianMode\MinMaxMeanMedianMode\MinMaxMeanMedianMode.cpp(84,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carter\source\repos\C++DataStructures\MinMaxMeanMedianMode\MinMaxMeanMedianMode\MinMaxMeanMedianMode.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+  MinMaxMeanMedianMode.vcxproj -> C:\Users\Carter\source\repos\C++DataStructures\MinMaxMeanMedianMode\Debug\MinMaxMeanMedianMode.exe

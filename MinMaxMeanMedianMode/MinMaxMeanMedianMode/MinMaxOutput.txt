@@ -1,0 +1,74 @@
+Test Run 1
+
+Carter Welke            CIST 004B Spring 2020
+Min Max Mean Median Mode Calculator with multimodal support
+How many numbers are in your list?(1-100): 0
+Dude, please enter a valid list count
+How many numbers are in your list?(1-100): 101
+Dude, please enter a valid list count
+How many numbers are in your list?(1-100): 1
+
+Your list may have numbers between 1 and 1000.
+Enter the  1st number: 0
+come on man, please enter a valid number
+Enter the  1st number: 1001
+come on man, please enter a valid number
+Enter the  1st number: 4
+
+The list of numbers has the following characteristics:
+The Minimum is: 4
+The Maximum is: 4
+   The Mean is: 4
+ The Median is: 4
+   The Mode is: 4
+
+
+C:\Users\Carter\source\repos\C++DataStructures\MinMaxMeanMedianMode\Debug\MinMaxMeanMedianMode.exe (process 16780) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+
+Test Run 2
+
+Carter Welke            CIST 004B Spring 2020
+Min Max Mean Median Mode Calculator with multimodal support
+How many numbers are in your list?(1-100): 25
+
+Your list may have numbers between 1 and 1000.
+Enter the  1st number: 1
+Enter the  2nd number: 1
+Enter the  3rd number: 1
+Enter the  4th number: 1
+Enter the  5th number: 2
+Enter the  6th number: 2
+Enter the  7th number: 2
+Enter the  8th number: 2
+Enter the  9th number: 3
+Enter the 10th number: 3
+Enter the 11th number: 3
+Enter the 12th number: 3
+Enter the 13th number: 4
+Enter the 14th number: 4
+Enter the 15th number: 4
+Enter the 16th number: 4
+Enter the 17th number: 5
+Enter the 18th number: 5
+Enter the 19th number: 5
+Enter the 20th number: 5
+Enter the 21st number: 6
+Enter the 22nd number: 6
+Enter the 23rd number: 6
+Enter the 24th number: 6
+Enter the 25th number: 8
+
+The list of numbers has the following characteristics:
+The Minimum is: 1
+The Maximum is: 8
+   The Mean is: 3.68
+ The Median is: 4
+The list is multimodal. The list has 6 modes.
+The modes are: 1, 2, 3, 4, 5 and 6
+
+C:\Users\Carter\source\repos\C++DataStructures\MinMaxMeanMedianMode\Debug\MinMaxMeanMedianMode.exe (process 15252) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
